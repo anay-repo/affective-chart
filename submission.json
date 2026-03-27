@@ -1,0 +1,7 @@
+{
+  "prompt": "Photorealistic editorial image of a large number of baby cradles arranged in rows, stretching from left to right. On the left side, most cradles are filled with dark shadowy forms, tightly packed and overwhelming, creating a heavy and somber feeling. As the rows move toward the right, the number of filled cradles decreases dramatically, with many cradles becoming completely empty and spaced apart. The right side shows only a few empty cradles under soft warm light, symbolizing survival and hope. Mood: heavy grief transitioning into quiet hope. Color palette: dark cold grey and blue tones on the left, gradually shifting into warm soft golden light on the right. Composition: strong left-to-right gradient, rule of thirds, dense clustering on left, sparse minimal space on right. No text, no labels, no numbers, no symbols, no charts, purely visual metaphor.",
+  "model": "Banana AI (Nano Banana 2) — Gemini Imagen",
+  "dataset_name": "UNICEF Child Mortality Estimates (CME Info) — Neonatal Mortality Rate, Afghanistan",
+  "dataset_url": "https://childmortality.org/data",
+  "insight": "Neonatal mortality in Afghanistan fell from approximately 82 deaths per 1,000 live births in the late 1990s to under 19 per 1,000 by the mid-2020s — a reduction of over 75%."
+}
